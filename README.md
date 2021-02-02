@@ -10,5 +10,7 @@ The idea of this repository is inspired by [Nicolas Vandeput](https://www.linked
     - [x] What has been simulated: safety stock, cycle stock, stock in transit, overall stock and demand.
 * [Fill Rate Simulation](https://github.com/fedinb/Inventory-Optimization/blob/main/Fill%20Rate.ipynb)
     - [x] What has been simulated: fill rate, cycle service level and period service level.
+* [Cost and Service Level Optimization](https://github.com/fedinb/Inventory-Optimization/blob/main/Cost%20and%20Service%20Level%20Optimization.ipynb)
+    - [x] What has been calculated: fill rate, cycle service level and inventory cost per several review periods.
     
    
