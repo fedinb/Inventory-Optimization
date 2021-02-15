@@ -12,5 +12,7 @@ The idea of this repository is inspired by [Nicolas Vandeput](https://www.linked
     - [x] What has been simulated: fill rate, cycle service level and period service level.
 * [Cost and Service Level Optimization](https://github.com/fedinb/Inventory-Optimization/blob/main/Cost%20and%20Service%20Level%20Optimization.ipynb)
     - [x] What has been calculated: fill rate, cycle service level and inventory cost per several review periods.
+* [Gamma Distribution Calculation](https://github.com/fedinb/Inventory-Optimization/blob/main/Gamma%20Distribution%20Calculation.ipynb)
+    - [x] What else has been calculated: skewness, offset skewness, up-to level, safety stock.
     
    
